@@ -1,2 +1,2 @@
 # ShopNow
-ShopNow is a React ecommerce platform with essential commerce features. Built with React, modular and fully customizable.
+ShopNow is an e-commerce project with essential commerce features. Built with .Net and C#.
